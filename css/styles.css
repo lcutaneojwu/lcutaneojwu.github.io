@@ -1,0 +1,106 @@
+header {
+	background-color: #333;
+	padding: 10px;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #CC7C1D;
+	font-size: 5rem;
+	font-weight: 200;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3rem;
+	color: #CC7C1D;
+	font-weight: 100;
+	text-align: center;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+	color: #4F310D;
+	font-size: 1.65rem;
+	font-weight: 100;
+	text-align: left;
+}
+
+h3{
+	font-family: 'Raleway', sans-serif;
+	color: #CC7C1D;
+	font-size: 3rem;
+	font-weight: 200;
+	text-align: center;
+}
+
+.hero {
+	background-image: url('../img/coffee.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	position: relative;
+}
+
+blockquote {
+	color: #CC7C1D;
+	font-size: 2rem;
+	font-family: 'Open Sans', serif;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 1em;
+}	
+
+h4{
+	font-family: 'Raleway', sans-serif;
+	color: #CC7C1D;
+	font-size: 3.5rem;
+	font-weight: 300;
+}
+
+h5{
+	font-family: 'Raleway', sans-serif;
+	color: #CC7C1D;
+	font-size: 3rem;
+	font-weight: 200;
+	margin-top: -70;
+}
+
+div{
+	font-family: 'Poppins', sans-serif;
+	color: #4F310D;
+	font-size: 1.65rem;
+	font-weight: 100;
+	text-align: left;
+	margin-top: -40;
+}
+
+article{
+	font-family: 'Poppins', sans-serif;
+	color: #4F310D;
+	font-size: 1.5rem;
+	font-weight: 100;
+	text-align: left;
+	margin-top: -30;
+	margin-bottom: 30;
+}
+
+footer{
+	background-color: #333;
+	padding: 10px;
+}
+
+h6{
+	font-family: 'Raleway', sans-serif;
+	color: #CC7C1D;
+	font-size: 1rem;
+	font-weight: 100;
+	text-align: center;
+}
+
+.wrapper {
+	max-width: 800px;
+	margin: 0 auto;
+}
